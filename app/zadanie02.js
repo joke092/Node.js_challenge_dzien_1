@@ -1,1 +1,1 @@
-//Twój kod
+console.log("Witam");
